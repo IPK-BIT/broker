@@ -1,0 +1,4 @@
+.env
+broker.db
+broker.txt
+__pycache__/
